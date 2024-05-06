@@ -11,7 +11,7 @@ This application allows users to enter their existing password for storage, or r
 ## Installation
 To run the password manager, follow these steps:
 
-1. **Clone the repository:**
+- Clone the repository:
 - git clone https://github.com/evanjamesc/password-manager.git
 - cd password-manager
 - Run "main.py" locally on your machine
