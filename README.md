@@ -2,7 +2,7 @@
 
 ## Introduction
 This application allows users to enter their existing password for storage, or randomly generate a secure password for their accounts.
-This application is for demo purposes only. Future development will include password hashing.
+This application is for demo purposes only.
 
 ## Features
 - **Simple GUI**: A user-friendly interface that allows for easy interaction.
